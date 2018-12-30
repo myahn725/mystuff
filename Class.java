@@ -8,4 +8,5 @@ public class Class {
 		num2 = 725;
 	}
 	Class obj = new Class(34);
+	Class anotherObj = new Class(25);
 }
